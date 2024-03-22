@@ -20,8 +20,6 @@ public interface ProfileRepo extends JpaRepository<Profile, Integer> {
     void deleteById(Integer id);
     void deleteByUserId(Integer id);
 
-   // @Modifying
-   // @Query("DELETE FROM Chat c WHERE c.user = :user")
     void deleteByUser(User user);
     Profile readById(Integer id);
 

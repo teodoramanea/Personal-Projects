@@ -25,9 +25,9 @@ public class ChatController {
     }
 
     @GetMapping("/Read")
-    public void read(@RequestBody Chat chat)
+    public void read(@RequestParam("id") Integer id)
     {
-        System.out.println(chatServiceImplementation.read(chat.getId()));
+        chatServiceImplementation.read(id);
     }
 
 

@@ -43,7 +43,7 @@ public class QuizOptionServiceImplementation implements QuizOptionService{
             quizQuestionRepo.save(quizQuestion);
             quizOptionRepo.save(quizOption);
 
-            System.out.println("Numărul de opțiuni: " + quizQuestion.getAnswerOptionsList().size());
+            System.out.println("numarul de optiuni: " + quizQuestion.getAnswerOptionsList().size());
             for (QuizOption option : quizQuestion.getAnswerOptionsList()) {
                 System.out.println(option.getAnswerOption());
             }

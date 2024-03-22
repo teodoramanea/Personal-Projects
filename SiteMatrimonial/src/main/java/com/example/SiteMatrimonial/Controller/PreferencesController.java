@@ -10,12 +10,12 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/Preferences")
 public class PreferencesController {
     private final PreferencesServiceImplementation preferencesServiceImplementation;
-    @GetMapping("/GetData")
-
-    public String getMessage()
-    {
-        return "teo ce faci??";
-    }
+//    @GetMapping("/GetData")
+//
+//    public String getMessage()
+//    {
+//        return "teo ce faci??";
+//    }
 
     @PostMapping("/Insert")
     public void insert(@RequestBody Preferences preferences)
@@ -24,15 +24,15 @@ public class PreferencesController {
     }
 
     @DeleteMapping("/Delete")
-    public void delete(@RequestBody Preferences preferences)
+    public void delete(@RequestParam("id") Integer id)
     {
-        preferencesServiceImplementation.delete(preferences.getId());
+        preferencesServiceImplementation.delete(id);
     }
 
     @GetMapping("/Read")
-    public void read(@RequestBody Preferences preferences)
+    public void read(@RequestParam("id")Integer id)
     {
-        System.out.println(preferencesServiceImplementation.read(preferences.getId()));
+        preferencesServiceImplementation.read(id);
     }
 
 

@@ -28,9 +28,9 @@ public class MatchController {
     }
 
     @GetMapping("/Read")
-    public void read(@RequestBody Matchul matchul)
+    public void read(@RequestParam("id") Integer id)
     {
-        System.out.println(matchServiceImplementation.read(matchul.getId()));
+        matchServiceImplementation.read(id);
     }
     @GetMapping("/ReadMatchIds")
     public List<Integer> readMatchIds(@RequestParam("id") Integer userId)

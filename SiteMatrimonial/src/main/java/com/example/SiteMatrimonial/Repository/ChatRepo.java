@@ -17,8 +17,7 @@ public interface ChatRepo extends JpaRepository<Chat, Integer> {
     Chat findFirstById(Integer id);
     void deleteById(Integer id);
     void deleteByUserId(Integer id);
-   // @Modifying
-   // @Query("DELETE FROM Chat c WHERE c.user = :user")
+
     void deleteByUser(User user);
     Chat readById(Integer id);
 

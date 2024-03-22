@@ -81,7 +81,7 @@ export default function RadioButtonsGroup1() {
     //console.log(options);
 
     if (options.length >= 18) {
-        // Împarte opțiunile în 8 grupuri de câte 3
+        // imparte opțiunile în 6 grupuri de câte 3
         for (let i = 0; i < 18; i += 3) {
             const groupOptions = options.slice(i, i + 3);
             const group = (
