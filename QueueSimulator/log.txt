@@ -1,0 +1,649 @@
+Time0
+
+Waiting Clients:
+
+(1,7,4)
+
+(2,9,2)
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time1
+
+Waiting Clients:
+
+(1,7,4)
+
+(2,9,2)
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time2
+
+Waiting Clients:
+
+(1,7,4)
+
+(2,9,2)
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time3
+
+Waiting Clients:
+
+(1,7,4)
+
+(2,9,2)
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time4
+
+Waiting Clients:
+
+(1,7,4)
+
+(2,9,2)
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time5
+
+Waiting Clients:
+
+(1,7,4)
+
+(2,9,2)
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time6
+
+Waiting Clients:
+
+(1,7,4)
+
+(2,9,2)
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time7
+
+Waiting Clients:
+
+(2,9,2)
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1: 
+(1,7,4)
+
+
+Queue 2 empty
+
+Time8
+
+Waiting Clients:
+
+(2,9,2)
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1: 
+(1,7,3)
+
+
+Queue 2 empty
+
+Time9
+
+Waiting Clients:
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1: 
+(1,7,2)
+
+
+Queue 2: 
+(2,9,2)
+
+
+Time10
+
+Waiting Clients:
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1: 
+(1,7,1)
+
+
+Queue 2: 
+(2,9,1)
+
+
+Time11
+
+Waiting Clients:
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time12
+
+Waiting Clients:
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time13
+
+Waiting Clients:
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time14
+
+Waiting Clients:
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time15
+
+Waiting Clients:
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time16
+
+Waiting Clients:
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time17
+
+Waiting Clients:
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time18
+
+Waiting Clients:
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time19
+
+Waiting Clients:
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time20
+
+Waiting Clients:
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time21
+
+Waiting Clients:
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time22
+
+Waiting Clients:
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time23
+
+Waiting Clients:
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time24
+
+Waiting Clients:
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time25
+
+Waiting Clients:
+
+(4,26,2)
+
+(3,27,2)
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time26
+
+Waiting Clients:
+
+(3,27,2)
+
+Queue 1: 
+(4,26,2)
+
+
+Queue 2 empty
+
+Time27
+
+Waiting Clients:
+
+Queue 1: 
+(4,26,1)
+
+
+Queue 2: 
+(3,27,2)
+
+
+Time28
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2: 
+(3,27,1)
+
+
+Time29
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time30
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time31
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time32
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time33
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time34
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time35
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time36
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time37
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time38
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time39
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time40
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time41
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time42
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time43
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time44
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time45
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time46
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time47
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time48
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time49
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time50
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time51
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time52
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time53
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time54
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time55
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time56
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time57
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time58
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time59
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+Time60
+
+Waiting Clients:
+
+Queue 1 empty
+
+Queue 2 empty
+
+average service time:2.5
+average waiting time:1.25
+peak hour:9.0

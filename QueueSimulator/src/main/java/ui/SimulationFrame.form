@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="ui.SimulationFrame">
+  <grid id="27dc6" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="516" height="408"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="6ccad" binding="SimulationFrame" layout-manager="GridLayoutManager" row-count="13" column-count="7" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-3635569"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="46c0d" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="7" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Bookman Old Style" size="26" style="0"/>
+              <text value="Queue management"/>
+            </properties>
+          </component>
+          <vspacer id="40d7d">
+            <constraints>
+              <grid row="8" column="6" row-span="5" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+            </constraints>
+          </vspacer>
+          <component id="6d831" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Bookman Old Style" size="18" style="0"/>
+              <text value="simulation max time:"/>
+            </properties>
+          </component>
+          <component id="7c27a" class="javax.swing.JTextField" binding="time">
+            <constraints>
+              <grid row="1" column="2" row-span="1" col-span="4" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="-1"/>
+              </grid>
+            </constraints>
+            <properties/>
+          </component>
+          <component id="b4ab0" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Bookman Old Style" size="18" style="0"/>
+              <text value="min processing time:"/>
+            </properties>
+          </component>
+          <component id="7123b" class="javax.swing.JTextField" binding="minproc">
+            <constraints>
+              <grid row="2" column="2" row-span="1" col-span="4" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="-1"/>
+              </grid>
+            </constraints>
+            <properties/>
+          </component>
+          <component id="23a59" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Bookman Old Style" size="18" style="0"/>
+              <text value="max processing time:"/>
+            </properties>
+          </component>
+          <component id="b570b" class="javax.swing.JTextField" binding="maxproc">
+            <constraints>
+              <grid row="3" column="2" row-span="1" col-span="4" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="-1"/>
+              </grid>
+            </constraints>
+            <properties/>
+          </component>
+          <component id="e90e2" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Bookman Old Style" size="18" style="0"/>
+              <text value="min arrival time:"/>
+            </properties>
+          </component>
+          <component id="c3193" class="javax.swing.JTextField" binding="minarriv">
+            <constraints>
+              <grid row="4" column="2" row-span="1" col-span="4" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="-1"/>
+              </grid>
+            </constraints>
+            <properties/>
+          </component>
+          <component id="9a797" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Bookman Old Style" size="18" style="0"/>
+              <text value="max arrival time:"/>
+            </properties>
+          </component>
+          <component id="db786" class="javax.swing.JTextField" binding="maxarriv">
+            <constraints>
+              <grid row="5" column="2" row-span="1" col-span="4" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="-1"/>
+              </grid>
+            </constraints>
+            <properties/>
+          </component>
+          <component id="da7de" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Bookman Old Style" size="18" style="0"/>
+              <text value="number of servers:"/>
+            </properties>
+          </component>
+          <component id="d5f07" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Bookman Old Style" size="18" style="0"/>
+              <text value="number of clients:"/>
+            </properties>
+          </component>
+          <component id="67c45" class="javax.swing.JTextField" binding="nrserver">
+            <constraints>
+              <grid row="6" column="2" row-span="1" col-span="4" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="-1"/>
+              </grid>
+            </constraints>
+            <properties/>
+          </component>
+          <component id="2076" class="javax.swing.JTextField" binding="nrclients">
+            <constraints>
+              <grid row="7" column="2" row-span="1" col-span="4" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="-1"/>
+              </grid>
+            </constraints>
+            <properties/>
+          </component>
+          <component id="a8a41" class="javax.swing.JButton" binding="startSimulationButton" default-binding="true">
+            <constraints>
+              <grid row="11" column="3" row-span="2" col-span="3" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-3033897"/>
+              <font name="Bookman Old Style" size="18" style="0"/>
+              <text value="start simulation"/>
+            </properties>
+          </component>
+          <component id="9286d" class="javax.swing.JButton" binding="validateInputDataButton" default-binding="true">
+            <constraints>
+              <grid row="8" column="0" row-span="4" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-3033897"/>
+              <font name="Bookman Old Style" size="18" style="0"/>
+              <text value="validate input data"/>
+            </properties>
+          </component>
+          <scrollpane id="9ad48" binding="resultPane">
+            <constraints>
+              <grid row="12" column="0" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-3635569"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="61170" class="javax.swing.JTextArea" binding="resultArea">
+                <constraints/>
+                <properties>
+                  <background color="-786498"/>
+                  <font name="Bookman Old Style" size="14" style="0"/>
+                </properties>
+              </component>
+            </children>
+          </scrollpane>
+          <component id="549e8" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="8" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Bookman Old Style" size="14" style="0"/>
+              <text value="average service time:"/>
+            </properties>
+          </component>
+          <component id="ea0c6" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="9" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Bookman Old Style" size="14" style="0"/>
+              <text value="average waiting time:"/>
+            </properties>
+          </component>
+          <component id="498d9" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="10" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Bookman Old Style" size="14" style="0"/>
+              <text value="peak hour:"/>
+            </properties>
+          </component>
+          <component id="e26d" class="javax.swing.JLabel" binding="servicetime">
+            <constraints>
+              <grid row="8" column="4" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Bookman Old Style" size="14" style="0"/>
+              <text value=""/>
+            </properties>
+          </component>
+          <component id="13115" class="javax.swing.JLabel" binding="peakhour">
+            <constraints>
+              <grid row="10" column="4" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Bookman Old Style" size="14" style="0"/>
+              <text value=""/>
+            </properties>
+          </component>
+          <component id="d84c9" class="javax.swing.JLabel" binding="waitingtime">
+            <constraints>
+              <grid row="9" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Bookman Old Style" size="14" style="0"/>
+              <text value=""/>
+            </properties>
+          </component>
+          <hspacer id="2687">
+            <constraints>
+              <grid row="9" column="2" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+          </hspacer>
+          <hspacer id="62a63">
+            <constraints>
+              <grid row="10" column="1" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+          </hspacer>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8871fc27-7f74-4e87-8419-4968033521ad" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects />
+    <settings elmCompilerPath="C:\Program Files (x86)\Elm\0.19.1\bin\elm.exe" elmFormatPath="null" elmTestPath="C:\Users\iubes\AppData\Roaming\npm\elm-test.cmd" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OJRBa3V2W8k15HlZ2KSLMk8XzC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/FACULTATE/ANU 3/sem2/Personal Projects/Efficient Queue Simulator",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "org.elm.workspace.PROJECT_DISCOVERY": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\iubes\IdeaProjects\Tema2\src\main\java\Bussiness_Logic" />
+      <recent name="C:\Users\iubes\IdeaProjects\Tema2\src\main\java\Model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SimulationFrame">
+    <configuration name="SimulationFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.SimulationFrame" />
+      <module name="Tema2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Simulation_Manager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bussiness_Logic.Simulation_Manager" />
+      <module name="Tema2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bussiness_Logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimulationFrame" />
+        <item itemvalue="Application.Simulation_Manager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8871fc27-7f74-4e87-8419-4968033521ad" name="Changes" comment="" />
+      <created>1681276566293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681276566293</updated>
+      <workItem from="1681276567847" duration="3115000" />
+      <workItem from="1681279706122" duration="2813000" />
+      <workItem from="1681881243436" duration="5708000" />
+      <workItem from="1681990463839" duration="10320000" />
+      <workItem from="1682076763337" duration="15100000" />
+      <workItem from="1682241351657" duration="50669000" />
+      <workItem from="1682341908419" duration="615000" />
+      <workItem from="1682346196625" duration="1564000" />
+      <workItem from="1682362891274" duration="11374000" />
+      <workItem from="1682423732148" duration="32953000" />
+      <workItem from="1682465886862" duration="1662000" />
+      <workItem from="1682486352485" duration="4616000" />
+      <workItem from="1711129892681" duration="590000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Bussiness_Logic.Simulation_Manager" memberName="generatedClienti" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tema2$Simulation_Manager.ic" NAME="Simulation_Manager Coverage Results" MODIFIED="1682274127142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Bussiness_Logic.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Tema2$SimulationFrame.ic" NAME="SimulationFrame Coverage Results" MODIFIED="1682441227431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ui.*</FILTER>
+    </SUITE>
+  </component>
+</project>
